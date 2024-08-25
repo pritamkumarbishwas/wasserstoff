@@ -52,7 +52,7 @@ This is a React-based weather forecast application that allows users to view the
 ### Steps
 
 # Clone the repository
-    git clone [https://github.com/your-username/your-repository.git](https://github.com/pritamkumarbishwas/wasserstoff)
+    git clone https://github.com/pritamkumarbishwas/wasserstoff
 # Navigate to the project directory
    ```bash
       cd wasserstoff
