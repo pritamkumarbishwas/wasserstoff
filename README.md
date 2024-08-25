@@ -1,8 +1,8 @@
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
-
+git clone [https://github.com/your-username/your-repository.git](https://github.com/pritamkumarbishwas/wasserstoff)
 # Navigate to the project directory
-cd your-repository
+cd wasserstoff
+cd fullstackInternTask
 
 # Install dependencies
 npm install
